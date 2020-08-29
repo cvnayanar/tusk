@@ -5,5 +5,8 @@ pizza
 pasta
 chicken fry
 
+beans
+cake
+
 
 thank you
